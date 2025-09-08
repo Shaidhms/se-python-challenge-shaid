@@ -1,4 +1,4 @@
-# 🦅 Social Eagle - 15 Days Python Challenge : Submitted by Shaid
+# 🦅 Social Eagle - 15 Days Python Challenge
 
 A comprehensive collection of Python coding challenges designed to enhance your programming skills over 15 days.
 
@@ -29,26 +29,47 @@ se-python-challenge-shaid/
 
 ## 🚀 Quick Start
 
-### 1. Clone the Repository
+### Option 1: Clone Entire Repository (All 15 Days)
 ```bash
 git clone https://github.com/Shaidhms/se-python-challenge-shaid.git
 cd se-python-challenge-shaid
-```
-
-### 2. Install Dependencies
-```bash
 pip install -r requirements.txt
 ```
 
-### 3. Navigate to Any Day
+### Option 2: Clone Specific Day Only
+**For Day 1:**
 ```bash
-cd Day-1-python-challenge
+git clone --filter=blob:none --sparse-checkout https://github.com/Shaidhms/se-python-challenge-shaid.git
+cd se-python-challenge-shaid
+git sparse-checkout set Day-1-python-challenge
+pip install streamlit
+```
+
+**For Day 2:**
+```bash
+git clone --filter=blob:none --sparse-checkout https://github.com/Shaidhms/se-python-challenge-shaid.git
+cd se-python-challenge-shaid  
+git sparse-checkout set Day-2-python-challenge
+pip install -r requirements.txt
+```
+
+**For Any Specific Day (replace X with day number):**
+```bash
+git clone --filter=blob:none --sparse-checkout https://github.com/Shaidhms/se-python-challenge-shaid.git
+cd se-python-challenge-shaid
+git sparse-checkout set Day-X-python-challenge
+pip install -r requirements.txt
+```
+
+### 3. Navigate to the Day Folder
+```bash
+cd Day-1-python-challenge  # or any day you cloned
 ```
 
 ### 4. Run the Challenge
 ```bash
 # For Streamlit apps
-streamlit run app.py
+streamlit run Day1-Task.py
 
 # For regular Python scripts  
 python main.py
