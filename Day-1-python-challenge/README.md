@@ -165,10 +165,8 @@ streamlit run app.py --server.port 8502
 
 
 ## 📄 License
-
 This project is licensed under the MIT License 
-
-
+## 
 <div align="center">
 
 **🎓 Keep coding, keep learning!**
