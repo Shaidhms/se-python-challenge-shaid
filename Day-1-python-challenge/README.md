@@ -45,7 +45,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone [Day-1-python-challenge](https://github.com/Shaidhms/se-python-challenge-shaid/tree/049762c6eefc4f143dd671fdc0d8527de7eb7a96/Day-1-python-challenge)
+   refer readme of root
    ```
 
 2. **Install dependencies**
