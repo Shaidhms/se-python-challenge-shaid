@@ -45,7 +45,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/social-eagle-python-challenge.git
+   git clone Day-1-python-challenge
    ```
 
 2. **Install dependencies**
