@@ -45,8 +45,9 @@
 
 1. **Clone the repository**
    ```bash
-   refer readme of root
-   ```
+   git clone --filter=blob:none --sparse-checkout https://github.com/Shaidhms/se-python-challenge-shaid.git
+   cd se-python-challenge-shaid
+   git sparse-checkout set Day-1-python-challenge
 
 2. **Install dependencies**
    ```bash
@@ -106,10 +107,10 @@ The app includes two beautiful themes:
 ```
 Day-1-python-challenge/
 │
-├── Day1-Task.py                 # Main Streamlit application
+├── Day1-Task.py          # Main Streamlit application
 ├── README.md             # Project documentation  
 ├── requirements.txt      # Python dependencies
-└── .gitignore           # Git ignore rules
+└── .gitignore            # Git ignore rules
 ```
 
 ## 🤝 Contributing
