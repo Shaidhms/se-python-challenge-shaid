@@ -38,16 +38,10 @@ App calculates how much each person should pay or get back.
 - **WhatsApp Integration** - Ready-to-share settlement messages
 - **Data Persistence** - Session state management across tabs
 
-## 🖥️ Screenshots
+## 🖥️ Screen Shot 
 
-### Split Calculator Tab
-*Intuitive expense entry with multiple split type options*
+![29093325-BB75-43F0-A43D-A064A62681EF_4_5005_c](https://github.com/user-attachments/assets/c78faab7-5633-4a98-9583-a95bdaa38f47)
 
-### Visual Dashboard
-*Interactive charts showing balance overview and contribution distribution*
-
-### Export & Share
-*WhatsApp-ready messages and CSV downloads for easy sharing*
 
 ## 🚀 Quick Start
 
