@@ -150,7 +150,7 @@ The app supports three sophisticated split methods:
 ## 🏗️ Project Structure
 
 ```
-Day-1-python-challenge/
+Day-2-python-challenge/
 │
 ├── Day1-Task.py          # Main Streamlit application
 ├── README.md             # Project documentation  
