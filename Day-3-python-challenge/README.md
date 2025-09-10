@@ -1,10 +1,20 @@
 # 🦅 Social Eagle - Python Challenge Day 3
 
-# 🎤 AI Voice Calculator Pro
+#Day 3 : Scenario:
+Simple Calculator ➕➖✖️➗
 
-**Day 3 Python Challenge: Scenario**
+Inputs: two numbers + operation.
 
-Create a smart calculator application that can perform various mathematical operations. The application should be able to accept input both manually and through voice commands, providing a seamless and interactive user experience.
+Output: result.
+
+> **Welcome to an advanced Python challenge!** A sophisticated AI-powered calculator that demonstrates cutting-edge Streamlit development, speech recognition integration, and modern user interface design.
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-3.10%2B-orange?style=for-the-badge&logo=microphone)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ## ✨ Features
 
@@ -32,6 +42,10 @@ Create a smart calculator application that can perform various mathematical oper
   - **Text-to-Speech (Planned)**: Provides a text summary of the calculated result.
   - **Manual Input**: Allows users to enter numbers and select operations manually as an alternative to voice commands.
 
+## 🖥️ Screen Shot 
+
+![AI Voice Calculator Interface](https://placeholder-for-screenshot.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -41,31 +55,25 @@ Create a smart calculator application that can perform various mathematical oper
 
 ### Installation
 
-1.  **Clone the repository**
+1. **Clone the repository**
+   ```bash
+   git clone --filter=blob:none --sparse-checkout https://github.com/Shaidhms/se-python-challenge-shaid.git
+   cd se-python-challenge-shaid
+   git sparse-checkout set Day-3-python-challenge
 
-    ```bash
-    git clone <repository_url>
-    cd <repository_folder>
-    ```
+2. **Install dependencies**
+   ```bash
+   pip install streamlit SpeechRecognition
+   ```
 
-2.  **Install dependencies**
+3. **Run the application**
+   ```bash
+   streamlit run calc.py
+   ```
 
-    ```bash
-    pip install streamlit streamlit-audio-recorder SpeechRecognition
-    ```
-
-    *Note: For voice recognition to work, you may also need to install `PyAudio` on some systems.*
-
-3.  **Run the application**
-
-    ```bash
-    streamlit run app.py
-    ```
-
-4.  **Open your browser**
-
-      - Navigate to `http://localhost:8501`
-      - Start using the voice-activated calculator\!
+4. **Open your browser**
+   - Navigate to `http://localhost:8501`
+   - Start using the voice-activated calculator\!
 
 ## 🎯 How to Use
 
@@ -91,6 +99,16 @@ This project provided a deep dive into the following concepts:
   - **Session State Management**: Using `st.session_state` to maintain a history of calculations and pass values between components.
   - **Custom CSS in Streamlit**: Enhancing the application's aesthetics with custom CSS for a professional, branded look.
 
+## 🏗️ Project Structure
+
+```
+Day-3-python-challenge/
+│
+├── calc.py               # Main Streamlit application
+├── README.md             # Project documentation  
+├── requirements.txt      # Python dependencies
+└── .gitignore            # Git ignore rules
+```
 ## 🤝 Contributing
 
 We welcome contributions to make this AI Calculator even better\!
@@ -112,12 +130,14 @@ We welcome contributions to make this AI Calculator even better\!
 
 This project is licensed under the MIT License.
 
-\<div align="center"\>
+## 
+<div align="center">
 
-**🎓 Keep coding, keep learning\!**
+**🎓 Keep coding, keep learning!**
 
 Made with ❤️ by **Shaid** using **Streamlit**
 
-⭐ **Star this repo if you found it helpful\!** ⭐
+⭐ **Star this repo if it helped you learn something new!** ⭐
 
-\</div\>
+</div>
+
