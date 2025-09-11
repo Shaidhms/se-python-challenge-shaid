@@ -44,7 +44,7 @@ Output: BMI value + health category (Underweight/Normal/Overweight).
 
 1.  **Save the code**
 
-      - Save the provided Python code into a file named `bmi_calculator.py`.
+      - Save the provided Python code into a file named `app.py`.
 
 2.  **Install dependencies**
 
@@ -55,7 +55,7 @@ Output: BMI value + health category (Underweight/Normal/Overweight).
 3.  **Run the application**
 
     ```bash
-    streamlit run bmi_calculator.py
+    streamlit run app.py
     ```
 
 4.  **Open your browser**
@@ -141,7 +141,7 @@ The application supports two languages:
 
 ```
 .
-├── bmi_calculator.py     # Main Streamlit application
+├── app.py     # Main Streamlit application
 ├── README.md             # Project documentation  
 └── .gitignore            # Git ignore rules
 ```
@@ -188,7 +188,7 @@ plotly
 
 This project is licensed under the MIT License
 
-\<div align="center"\>
+<div align="center"\>
 
 **🎓 Keep coding, keep learning\!**
 
@@ -196,4 +196,4 @@ Made with ❤️ by **Shaid** using **Streamlit**
 
 ⭐ **Star this repo if it helped you learn something new\!** ⭐
 
-\</div\>
+</div\>
