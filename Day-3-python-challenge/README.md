@@ -42,9 +42,13 @@ Output: result.
   - **Text-to-Speech (Planned)**: Provides a text summary of the calculated result.
   - **Manual Input**: Allows users to enter numbers and select operations manually as an alternative to voice commands.
 
-## 🖥️ Screen Shot 
+## 🖥️ Demo video 
 
-![6F90DA9B-6C61-4643-A4DD-B4912AACC307_1_102_o](https://github.com/user-attachments/assets/ef84a47a-03cb-4556-8295-cf75caf87c10)
+
+
+https://github.com/user-attachments/assets/60defd96-d8fa-4b7c-ba39-5c35ef2a89bb
+
+
 
 
 ## 🚀 Quick Start
