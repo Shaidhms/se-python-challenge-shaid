@@ -9,6 +9,10 @@ Output: BMI value + health category (Underweight/Normal/Overweight).
 
 > **Welcome to your fourth Python challenge\!** A sophisticated BMI Health Calculator application that demonstrates advanced Streamlit development, data visualization, and real-world problem solving.
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ## ✨ Features
 
 ### 📊 **Smart BMI Calculation**
