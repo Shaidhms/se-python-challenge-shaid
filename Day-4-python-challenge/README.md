@@ -141,8 +141,11 @@ The application supports two languages:
 
 ```
 .
-├── app.py     # Main Streamlit application
+Day-4-python-challenge/
+│
+├── app.py               # Main Streamlit application
 ├── README.md             # Project documentation  
+├── requirements.txt      # Python dependencies
 └── .gitignore            # Git ignore rules
 ```
 
