@@ -33,9 +33,13 @@ Output: BMI value + health category (Underweight/Normal/Overweight).
   - **Custom Styling** - Modern cards, gradients, and a health-focused color scheme.
   - **Intuitive Interface** - Clear user flow with well-organized sections.
 
-## 🖥️ Screen Shot
+## 🖥️ Demo Video
 
-*A screenshot will be added here to showcase the application's user interface.*
+
+https://github.com/user-attachments/assets/6ef2e984-6531-4ad5-bd35-715469006029
+
+
+
 
 ## 🚀 Quick Start
 
