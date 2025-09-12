@@ -87,13 +87,13 @@ Day-5-python-challenge/
 ```
 ⸻
 
-🔐 Optional: OpenAI Integration
+### 🔐 Optional: OpenAI Integration
 
-To use the “Locate Best Exchange Centers” feature:
+### To use the “Locate Best Exchange Centers” feature:
 	1.	Create a .env file in the project directory.
 	2.	Add your OpenAI API key:
 
-OPENAI_API_KEY=sk-...
+**OPENAI_API_KEY=sk-...
 
 
 
@@ -107,21 +107,21 @@ It simply prepares a copyable prompt for your convenience.
 Contributions are welcome!
 	1.	Fork the repo.
 	2.	Create a new branch:
-
-git checkout -b feature/add-new-units
-
-
+	 
+```bash
+	git checkout -b feature/add-new-units
+```
 	3.	Make your changes and test them thoroughly.
 	4.	Commit your changes with a clear message:
-
+ 
+```bash
 git commit -m 'Add new units to length converter'
-
-
+```
 	5.	Push your branch:
-
+```bash
 git push origin feature/add-new-units
 
-
+```
 	6.	Open a Pull Request.
 
 ⸻
