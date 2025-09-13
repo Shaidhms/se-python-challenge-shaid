@@ -1,1 +1,8 @@
 
+streamlit
+pandas
+plotly
+sqlite3
+streamlit-extras
+streamlit-option-menu
+plyer
