@@ -5,3 +5,7 @@ SpeechRecognition
 requests
 pytz 
 python-dotenv 
+sqlite3
+streamlit-extras
+streamlit-option-menu
+plyer
