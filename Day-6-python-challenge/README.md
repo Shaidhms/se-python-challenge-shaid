@@ -1,12 +1,13 @@
+# 🦅 Social Eagle - Python Challenge Day 6
 
-
+Day 6 Task : 
 Unit Converter 🔄
 
 Convert: currency, temperature, length, weight.
 
 Show results instantly.
 
-# 💧 Hydration Tracker - Python Challenge Day 5
+## 💧 Hydration Tracker - Python Challenge Day 5
 
 > **Welcome to your fifth Python challenge\!** A sophisticated and interactive water intake tracker application that demonstrates advanced Streamlit development, data visualization, and real-world problem-solving.
 
