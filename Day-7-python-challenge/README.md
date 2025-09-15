@@ -1,7 +1,7 @@
 
-# 🦅 Social Eagle – Python Challenge Day 8
+# 🦅 Social Eagle – Python Challenge Day 7
 
-Day 8 Task :  
+Day 7 Task :  
 
 Gym Workout Logger 🏋️
 
