@@ -97,25 +97,25 @@ _Add your screenshot(s) here._
 ```bash
 git clone https://github.com/Shaidhms/se-python-challenge-shaid.git
 cd se-python-challenge-shaid/day\ 8
-
-	2.	Create & activate a virtual environment (recommended)
-
+```
+2.	Create & activate a virtual environment (recommended)
+```
 python -m venv venv
 source venv/bin/activate       # macOS/Linux
 # or on Windows:
 # venv\Scripts\activate
-
-	3.	Install dependencies
-
+```
+3.	Install dependencies
+```
 pip install -r requirements.txt
-
-	4.	Run the app
-
+```
+4.	Run the app
+```
 streamlit run neuro-lift-app.py
+```
+5.	Open your browser
 
-	5.	Open your browser
-
-	•	Local: http://localhost:8501
+•	Local: http://localhost:8501
 
 ⸻
 
@@ -183,11 +183,11 @@ streamlit run neuro-lift-app.py
 	•	If you never get a prompt, try launching once from a simple script on the main thread to trigger it.
 	•	Microphone for Voice
 	•	Install PortAudio + PyAudio (macOS):
-
+```
 brew install portaudio
 pip install pyaudio
-
-
+```
+--
 	•	Autoplay with Sound
 	•	Browsers may require a user click (your Motivate Me button qualifies).
 	•	If muted, click the player once to activate audio.
@@ -224,9 +224,9 @@ requests          # pyrebase dependency
 scikit-learn      # AI weight suggestion
 
 macOS voice optional:
-
+```
 pyaudio           # requires 'brew install portaudio'
-
+```
 Note: If you installed pyrebase previously, prefer pyrebase4, or keep the one your code imports. Make sure your firebaseConfig values are valid.
 
 ⸻
@@ -272,4 +272,4 @@ Made with ❤️ by Shaid using Streamlit
 ⭐ Star this repo if it helped you learn something new! ⭐
 
 </div>
-```
+
