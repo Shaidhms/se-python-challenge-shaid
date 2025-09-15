@@ -1,4 +1,3 @@
-Here you go — the entire README written out in Markdown format so you can directly use it in your repo:
 
 # 🦅 Social Eagle – Python Challenge Day 8
 
