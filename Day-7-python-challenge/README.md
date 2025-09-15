@@ -119,32 +119,33 @@ streamlit run neuro-lift-app.py
 
 ⸻
 
-🎯 How to Use
-	1.	Configure Firebase (optional but recommended)
+# 🎯 How to Use
+
+1.	Configure Firebase (optional but recommended)
 	•	In neuro-lift-app.py, replace the firebaseConfig dict with your project keys:
 	•	apiKey, authDomain, databaseURL, projectId, storageBucket, messagingSenderId, appId, measurementId
 	•	If you skip this, the app runs in local JSON mode.
-	2.	Log a Set (Manual)
+2.	Log a Set (Manual)
 	•	Go to Log Workout tab.
 	•	Pick exercise, sets, reps, weight, RPE.
 	•	Click LOG SET — ACTIVATE NEURAL SYNC.
 	•	Check the toast + History tab.
-	3.	Log by Voice
+3.	Log by Voice
 	•	Go to Voice/Gesture tab → Start Listening.
 	•	Speak: “Log Bench Press 3 sets 8 reps 135 pounds”
 	•	You’ll see “You said: …” and a toast if it logs.
-	4.	Log by Gesture
+4.	Log by Gesture
 	•	In Voice/Gesture, set Gesture sensitivity if needed.
 	•	Click Start Camera Gesture Detection.
 	•	✌️ Two fingers = Log, 🖐️ Open palm = Undo.
 	•	You’ll see HUD info and a success toast.
-	5.	Motivation
+5.	Motivation
 	•	Sidebar → Motivate Me to autoplay a random YouTube Short.
 	•	Close Video to hide it.
-	6.	Progress & History
+6.	Progress & History
 	•	Progress tab for weekly volume & PRs.
 	•	History tab to review, delete single entries, or Clear Today’s Logs.
-	7.	Upgrades & Levels
+7.	Upgrades & Levels
 	•	Cyber Upgrades tab:
 	•	Unlock Kinetic Sync and Adrenaline Injector with NeuroCredits.
 	•	Watch adrenaline badge and XP bar update live.
@@ -262,8 +263,7 @@ This project is licensed under the MIT License.
 
   
 
-<h2>Social Eagle Python Challenge</h2>
-<h3>NeuroLift Gesture Log</h3>
+
 
 
 🎓 Keep coding, keep learning!
