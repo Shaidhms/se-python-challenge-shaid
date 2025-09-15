@@ -153,28 +153,28 @@ streamlit run neuro-lift-app.py
 ⸻
 
 🧠 What’s Inside (Code Overview)
-	•	RoboTrainer
-	•	Tracks quotes, upgrades, NeuroCredits, XP/Level, badges.
-	•	unlock_upgrade(name) starts Adrenaline timer and toggles Kinetic Sync.
-	•	award_credits/add_xp support a “quiet” mode (no extra pop-ups).
-	•	level_up() shows a sidebar success + toast (no image card).
-	•	WorkoutLogger
-	•	Loads/saves data from Firebase or local JSON.
-	•	log_workout(), delete_by_index(), clear_today() mutate and persist.
-	•	get_weekly_progress() and get_prs() power the charts.
-	•	predict_next_weight() (per exercise) drives the suggestion.
-	•	Gesture Detection (detect_gesture)
-	•	Captures frames, thresholding to hand silhouette.
-	•	Finds contours, convex hull, and convexity defects (valleys).
-	•	Estimates fingers ≈ gaps + 1, with fallbacks and sensitivity.
-	•	Mapping: 2 fingers → LOG, 4–5 fingers (open palm) → UNDO.
-	•	Voice
-	•	recognize_speech() uses SpeechRecognition (Google recognizer).
-	•	parse_voice_command() supports multiple natural patterns + defaults.
-	•	UI/UX
-	•	Five tabs: Log Workout, Voice/Gesture, Progress, History, Cyber Upgrades.
-	•	Sidebar: status, Quick Actions, Motivate Me, upgrades guide, Cloud Sync.
-	•	Custom CSS for a cyber vibe; Plotly charts for visuals.
+•	RoboTrainer
+•	Tracks quotes, upgrades, NeuroCredits, XP/Level, badges.
+•	unlock_upgrade(name) starts Adrenaline timer and toggles Kinetic Sync.
+•	award_credits/add_xp support a “quiet” mode (no extra pop-ups).
+•	level_up() shows a sidebar success + toast (no image card).
+•	WorkoutLogger
+•	Loads/saves data from Firebase or local JSON.
+•	log_workout(), delete_by_index(), clear_today() mutate and persist.
+•	get_weekly_progress() and get_prs() power the charts.
+•	predict_next_weight() (per exercise) drives the suggestion.
+•	Gesture Detection (detect_gesture)
+•	Captures frames, thresholding to hand silhouette.
+•	Finds contours, convex hull, and convexity defects (valleys).
+•	Estimates fingers ≈ gaps + 1, with fallbacks and sensitivity.
+•	Mapping: 2 fingers → LOG, 4–5 fingers (open palm) → UNDO.
+•	Voice
+•	recognize_speech() uses SpeechRecognition (Google recognizer).
+•	parse_voice_command() supports multiple natural patterns + defaults.
+•	UI/UX
+•	Five tabs: Log Workout, Voice/Gesture, Progress, History, Cyber Upgrades.
+•	Sidebar: status, Quick Actions, Motivate Me, upgrades guide, Cloud Sync.
+•	Custom CSS for a cyber vibe; Plotly charts for visuals.
 
 ⸻
 
