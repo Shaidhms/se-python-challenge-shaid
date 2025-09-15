@@ -3,16 +3,23 @@ Here you go — the entire README written out in Markdown format so you can dire
 # 🦅 Social Eagle – Python Challenge Day 8
 
 Day 8 Task :  
-**NeuroLift Gesture Log** ✋✌️
 
-Vision-powered workout logging with gestures, voice, AI suggestions, and cloud sync.
+Gym Workout Logger 🏋️
+
+> Log exercises (sets, reps, weight).
+
+> Store history in a table.
+
+> Show weekly progress graph.
+
+
 
 ---
 
 ## ⚡ NeuroLift Gesture Log — Python Challenge Day 8
 
 > **Welcome to Day 8!** This is a cyber-styled, multi-tab **Streamlit** app that lets you **log workouts by camera gestures or voice**, tracks progress with **Plotly** charts, and syncs data to **Firebase Realtime Database**. It also has **gamification** (XP, levels, NeuroCredits, upgrades) and a fun **“Motivate Me”** YouTube Shorts boost.
-
+Vision-powered workout logging with gestures, voice, AI suggestions, and cloud sync.
 ---
 
 ## ✨ Features
