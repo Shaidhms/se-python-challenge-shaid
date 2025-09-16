@@ -1,4 +1,4 @@
-# 🦅 Social Eagle – Python Challenge Day 7
+# 🦅 Social Eagle – Python Challenge Day 8
 
 Day 8 Task :  
 
@@ -107,3 +107,16 @@ This project is a great starting point for learning about interactive web applic
 ## 📄 License
 
 This project is licensed under the MIT License.
+----
+
+
+<div align="center">
+
+
+🎓 Keep coding, keep learning!
+Made with ❤️ by Shaid using Streamlit
+
+⭐ Star this repo if it helped you learn something new! ⭐
+
+</div>
+
