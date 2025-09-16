@@ -36,7 +36,7 @@ try:
     import pyrebase
 
     firebaseConfig = {
-        "apiKey": "AIzaSyATiZs8yaYLpEoy_jeQ-TJqkH4OPW9wtTU",
+        "apiKey": "YOURAPIKEY",
         "authDomain": "neurolift-39f68.firebaseapp.com",
         "databaseURL": "https://neurolift-39f68-default-rtdb.firebaseio.com",
         "projectId": "neurolift-39f68",
