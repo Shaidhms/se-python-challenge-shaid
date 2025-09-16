@@ -1,3 +1,12 @@
+# 🦅 Social Eagle – Python Challenge Day 7
+
+Day 8 Task :  
+
+Currency Converter 💱
+
+- > Convert between INR, USD, EUR, etc. (static rates)
+- > Simple dropdown + number input
+
 # 🪙 Neon Nexus - Currency Converter
 
 A futuristic currency converter application built with Streamlit, showcasing real-time exchange, a dynamic user interface, and interactive features like a talking AI teller and visual effects.
