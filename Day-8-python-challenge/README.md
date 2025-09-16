@@ -107,7 +107,7 @@ This project is a great starting point for learning about interactive web applic
 ## 📄 License
 
 This project is licensed under the MIT License.
-----
+
 
 
 <div align="center">
