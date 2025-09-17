@@ -197,22 +197,6 @@ Built something cool with this? Found a bug? Want Shaid’s AI Avatar to say som
 
 → Open an [Issue](https://github.com/yourusername/roboquiz-nexus/issues) or tag @shaid on Twitter/X.
 
----
-
-## ✅ Deploy It!
-
-Deploy on:
-- [Streamlit Community Cloud](https://streamlit.io/cloud) (Free)
-- Docker + AWS/Azure/GCP
-- Railway, Heroku, etc.
-
----
-
-> “SESSION TERMINATED BY SHAID’S AI AVATAR. REBOOT WHEN READY, OPERATOR.”
-
----
-
-✅ **You’re live in the RoboQuiz Nexus.**
 
 ---
 
