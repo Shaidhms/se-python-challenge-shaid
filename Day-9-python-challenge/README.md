@@ -1,3 +1,18 @@
+# 🦅 Social Eagle – Python Challenge Day 9
+
+Day 9 Task :  
+
+Quiz Game App ❓
+
+> Features:
+
+> Multiple-choice questions (hardcoded in list/dict).
+
+> User selects answers via radio buttons.
+
+> Keep score using st.session_state.
+
+> Show final score at the end.
 # 🤖 RoboQuiz Nexus — Hosted by Shaid’s AI Avatar
 
 > *“CYBERNETIC INTELLIGENCE ASSESSMENT MODULE — VIDEO PLAYS → OPTIONS AUTO-REVEAL.”*
@@ -213,3 +228,21 @@ roboquiz-nexus/
 ```
 
 ---
+
+-----
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
+
+<div align="center">
+
+
+🎓 Keep coding, keep learning!
+Made with ❤️ by Shaid using Streamlit
+
+⭐ Star this repo if it helped you learn something new! ⭐
+
+</div>
