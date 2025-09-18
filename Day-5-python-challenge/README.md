@@ -44,6 +44,14 @@ Conversions are based on grams for precision.
 
 ---
 
+## 🚀 Demo Video
+
+
+
+https://github.com/user-attachments/assets/78ab6ff8-ff42-453f-a9ef-ccacf051a06a
+
+
+---
 ## 🚀 Quick Start
 
 ### Prerequisites
