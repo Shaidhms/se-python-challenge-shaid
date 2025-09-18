@@ -45,6 +45,12 @@ Show results instantly.
 
 ## 🖥️ Screen Shot
 
+
+
+https://github.com/user-attachments/assets/6fd76764-0d18-474f-b272-33af0585d49a
+
+
+
 -----
 
 ## 🚀 Quick Start
