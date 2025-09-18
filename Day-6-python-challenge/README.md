@@ -43,7 +43,7 @@ Show results instantly.
 
 -----
 
-## 🖥️ Screen Shot
+## 🖥️ Demo Video
 
 
 
