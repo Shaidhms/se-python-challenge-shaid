@@ -40,7 +40,11 @@ App calculates how much each person should pay or get back.
 
 ## 🖥️ Screen Shot 
 
-![29093325-BB75-43F0-A43D-A064A62681EF_4_5005_c](https://github.com/user-attachments/assets/c78faab7-5633-4a98-9583-a95bdaa38f47)
+
+
+https://github.com/user-attachments/assets/92fa68fb-cb80-4c32-aef6-83adada06c37
+
+
 
 
 ## 🚀 Quick Start
