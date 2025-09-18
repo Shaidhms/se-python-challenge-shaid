@@ -34,6 +34,15 @@ A futuristic currency converter application built with Streamlit, showcasing rea
 
 -----
 
+##  Demo Video 
+
+
+
+https://github.com/user-attachments/assets/afe31c9c-e644-47e3-8e89-8d998ffad7e4
+
+
+-----
+
 ## 🚀 Quick Start
 
 ### Prerequisites
