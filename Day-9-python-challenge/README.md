@@ -31,8 +31,10 @@ A cinematic, futuristic, robotic-themed quiz application built with **Streamlit*
 
 ## 🚀 Preview
 
-![RoboQuiz Nexus Preview](https://via.placeholder.com/800x500/0a0f1a/00ffff?text=RoboQuiz+Nexus+Preview)  
-*(Replace with actual screenshot or GIF when deployed)*
+
+
+https://github.com/user-attachments/assets/70c5eb8c-d497-4c7f-8fb9-0dd807100472
+
 
 ---
 
