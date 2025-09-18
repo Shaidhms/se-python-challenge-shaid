@@ -20,7 +20,13 @@ Gym Workout Logger 🏋️
 > **Welcome to Day 8!** This is a cyber-styled, multi-tab **Streamlit** app that lets you **log workouts by camera gestures or voice**, tracks progress with **Plotly** charts, and syncs data to **Firebase Realtime Database**. It also has **gamification** (XP, levels, NeuroCredits, upgrades) and a fun **“Motivate Me”** YouTube Shorts boost.
 Vision-powered workout logging with gestures, voice, AI suggestions, and cloud sync.
 ---
+## Demo
 
+
+https://github.com/user-attachments/assets/b8aa92cf-afaf-4896-aa9d-60b63468e2c3
+
+
+---
 ## ✨ Features
 
 ### 🖐️ **Vision & Gesture Logging**
