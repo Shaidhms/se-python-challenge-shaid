@@ -12,16 +12,10 @@ Restaurant Order & Billing App 🍔
 
 > Option to download invoice as CSV/PDF.
 
-# Hyperlane Events — Streamlit Event Registration System
-
-A complete Streamlit app to run events end to end: registrations, QR tickets, voice guidance, multi-currency pricing, waitlists, social sharing, live dashboards, and an admin console. Works with plain CSV files. No external database required.
-
-> Built by **Shaid** for the Social Eagle Python Challenge (Day 11).
-
 # TastyBites — Streamlit Food Ordering Demo 🍔🍕
 
 A polished Streamlit app that lets users browse a menu, add items with add-ons, apply offers, and check out with a UPI QR demo. It exports a PDF invoice, a CSV, and handles promo logic for various deals. The app is built to be responsive for both desktop and mobile views.
-
+> Built by **Shaid** for the Social Eagle Python Challenge (Day 11).
 <br>
 
 -----
