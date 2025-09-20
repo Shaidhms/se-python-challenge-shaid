@@ -23,6 +23,10 @@ A polished Streamlit app that lets users browse a menu, add items with add-ons, 
 ## Demo Video
 
 
+
+https://github.com/user-attachments/assets/3a590802-bf4a-48a2-8c04-3c2cc2f005b9
+
+
 -----
 ## ✨ Features
 
