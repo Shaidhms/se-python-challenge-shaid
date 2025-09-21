@@ -1,4 +1,4 @@
-# 🦅 Social Eagle – Python Challenge Day 11
+# 🦅 Social Eagle – Python Challenge Day 12
 
 Day 12 Task : 
  
