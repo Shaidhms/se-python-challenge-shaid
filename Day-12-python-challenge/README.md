@@ -17,8 +17,6 @@ Tic-Tac-Toe ❌⭕
 > A cinematic, neon-drenched, hyper-stylized Streamlit app with themes, AI difficulty, player stats, and arcade flair — all in one file.
 > Built by **Shaid** for the Social Eagle Python Challenge (Day 12).
 <br>
----
-
 
 ## 🌟 Features
 
