@@ -179,13 +179,12 @@ MIT — Use, modify, and deploy freely. Perfect for portfolios, demos, or fun!
 
 ---
 
-## 🙌 Credits
+<div align="center">
 
-Built with ❤️ using Streamlit.  
-Designed for arcade lovers, theme chasers, and tic-tac-toe masters.
+
+🎓 Keep coding, keep learning!
+Made with ❤️ by Shaid using Streamlit
+
+⭐ Star this repo if it helped you learn something new! ⭐
 
 ---
-
-
-
-Let the neon games begin! 🎮🔮
