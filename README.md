@@ -79,8 +79,22 @@ python main.py
 
 Each day focuses on different Python concepts and libraries:
 
-- **Day 1**: Interactive web forms with Streamlit
-- **Day 2-15**: More exciting challenges coming soon!
+- **Day 1**: Interactive web forms with Streamlit  
+- **Day 2**: Smart expense splitting and handling shared costs  
+- **Day 3**: Calculator with extended functionalities  
+- **Day 4**: Body Mass Index (BMI) calculator  
+- **Day 5**: Unit conversion tool  
+- **Day 6**: Water intake tracker  
+- **Day 7**: Gym workout logger  
+- **Day 8**: Currency converter  
+- **Day 9**: Quiz application  
+- **Day 10**: Event registration form with Streamlit  
+- **Day 11**: Restaurant ordering system with invoice generation  
+- **Day 12**: Tic-Tac-Toe game  
+- **Day 13**: Rock Paper Scissors game  
+- **Day 14**: Stopwatch with timer functions  
+- **Day 15**: Snake game with real-time updates  
+
 
 ## 📋 Requirements
 
