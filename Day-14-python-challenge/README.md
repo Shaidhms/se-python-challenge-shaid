@@ -1,6 +1,6 @@
 # 🦅 Social Eagle – Python Challenge Day 14
 
-Day 12 Task : 
+Day 14 Task : 
  
 >Stop Watch
 >Start/stop/reset timer
