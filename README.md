@@ -21,8 +21,8 @@ se-python-challenge-shaid/
 ├── Day-11-python-challenge/    # Day 11: Restaurant ordering and invoice
 ├── Day-12-python-challenge/    # Day 12: Tic-Tac-Toc Game
 ├── Day-13-python-challenge/    # Day 13: Rock Paper Scissor Game
-├── Day-14-python-challenge/    # Day 14: Coming Soon...
-├── Day-15-python-challenge/    # Day 15: Coming Soon...
+├── Day-14-python-challenge/    # Day 14: Stop Watch
+├── Day-15-python-challenge/    # Day 15: Snake Game
 ├── requirements.txt            # All dependencies for the challenges
 └── README.md                  # This file
 ```
