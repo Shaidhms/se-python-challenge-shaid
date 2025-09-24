@@ -87,7 +87,7 @@ pip install streamlit pillow streamlit-js-eval
 2. Place your `se.png` logo in the same folder
 3. Run in terminal:
    ```bash
-   streamlit run snake_game.py
+   streamlit run app.py
    ```
 4. Play using **arrow keys**, **WASD**, or on-screen buttons!
 
