@@ -1,44 +1,54 @@
-ROBO RPS — Streamlit Rock-Paper-Scissors
+# 🦅 Social Eagle – Python Challenge Day 12
 
-A futuristic Rock-Paper-Scissors built with Streamlit. Includes animated GIFs, live scoreboard, move history, and match formats (Best of 3 or Best of 5).
+Day 13 Task : 
+ 
+Rock , Paper , scissors￼Game !
 
-⸻
+# 🤖 ROBO RPS — Streamlit Rock-Paper-Scissors Arcade
 
-✨ Features
-	•	Player vs CPU with crisp animations
-	•	Best of 3 or Best of 5 match modes with automatic match winner announcement
-	•	Scoreboard with rounds, wins, CPU score, and draws
-	•	Move history dropdown with per-round details
-	•	Status messages and result banners after each round
-	•	Quick reset and new match controls
+> A cinematic, neon-drenched, hyper-stylized Streamlit app with match formats, animated GIFs, live stats, and arcade flair — all in one file.  
+> Built by **Shaid** for the Social Eagle Python Challenge (Day 13).
 
-⸻
+---
 
-📂 Project Structure
+## 🌟 Features
 
-day13/
-├─ app.py                 # Main Streamlit app
-├─ se.png                 # Logo displayed in header (place your own)
-├─ requirements.txt       # Python dependencies (optional but recommended)
+✅ **Futuristic Neon UI** — Glowing buttons, animated transitions, cinematic result banners  
+✅ **Player vs CPU Showdown** — Crisp animations with synchronized GIF reveals  
+✅ **Match Formats** — Choose **Best of 3** or **Best of 5** — auto-declares winner at match end  
+✅ **Live Scoreboard** — Tracks rounds, wins, draws, CPU score — updates in real-time  
+✅ **Move History Log** — Dropdown reveals every round’s moves, result, and timestamp  
+✅ **Result Animations** — Status banners pulse after each round: “YOU WIN 🎉”, “DRAW 🤝”, “CPU WINS 💀”  
+✅ **Quick Controls** — One-click **START NEW MATCH** or **RESET SCORES**  
+✅ **Testing Mode** — Sidebar toggle to set random seed for reproducible CPU moves  
+✅ **Responsive Design** — Glows on mobile, desktop, and tablet  
+✅ **Single File, Zero External Assets** — Only dependencies: `streamlit`, `requests`
 
-Minimal requirements.txt:
+---
 
-streamlit>=1.33
-requests>=2.31
+## 🎮 Ultra-Realistic Futuristic RPS Arena
+
+> *No quarters needed. Just pure digital adrenaline.*
+
+---
+
+## 📸 Demo video
 
 
-⸻
 
-## 🔧 Setup
-. What's up, baby, ma?
-1.	Clone the repo
-  
+---
+## 🚀 How to Run
+
+### 1. Clone or Create
+
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>/day13
 ```
 
-2.	Create a virtual environment (optional but recommended)
+> Or just copy `app.py` into a new folder.
+
+### 2. (Optional) Virtual Environment
 
 ```bash
 python3 -m venv venv
@@ -46,147 +56,161 @@ source venv/bin/activate  # macOS/Linux
 # .\venv\Scripts\activate for Windows
 ```
 
-	3.	Install dependencies
+### 3. Install Dependencies
 
-
-pip install -r requirements.txt
-# or
+```bash
 pip install streamlit requests
+# or
+pip install -r requirements.txt
+```
 
+### 4. Add Your Logo (Optional)
 
-	4.	Add your logo
-	•	Put a file named se.png in the same folder as app.py.
-	•	You can replace it with any PNG. The app reads it as a base64 string.
-	5.	Run
+Place `se.png` in the same folder as `app.py`.  
+> The app auto-converts it to base64. Missing? No problem — UI degrades gracefully.
 
+### 5. Launch the App
+
+```bash
 streamlit run app.py
+```
 
+Open the URL shown in your terminal (usually `http://localhost:8501`).
 
+---
 
-⸻
+## 🕹️ How to Play
 
-🎮 How to Play
-	•	Enter your Player name at the top.
-	•	Choose Match format: Best of 3 or Best of 5.
-	•	Click ROCK, PAPER, or SCISSORS.
-	•	The app plays the GIFs, then reveals the round result and updates the scoreboard.
-	•	After the last round, the app announces the match winner and disables move buttons.
-	•	Use START NEW MATCH to play again.
-	•	Use RESET SCORES to clear the board and start fresh in the same format.
+1. **Enter Your Name** — Personalize your player tag at the top.
+2. **Choose Match Format** — Best of 3 or Best of 5? The stakes are yours to set.
+3. **Make Your Move** — Click **ROCK 🪨**, **PAPER 📜**, or **SCISSORS ✂️**.
+4. **Watch the Duel** — GIFs animate simultaneously — then BAM — result revealed with flair.
+5. **Track Progress** — Live scoreboard updates. History dropdown logs every clash.
+6. **Match End** — Winner announced with cinematic banner. Buttons auto-disable.
+7. **Reset or Replay** — Hit **START NEW MATCH** to go again — or **RESET SCORES** for a clean slate.
 
-⸻
+---
 
-🖼️ GIF Configuration
+## 🧩 Code Structure
 
-The app uses a small dictionary called GIF_URLS inside app.py:
+All logic lives in one file: `app.py`
 
+- **Session State** — Manages scores, rounds, history, match format, player name
+- **GIF Animation Engine** — Fetches + displays player/CPU move GIFs with fallback headers
+- **Match Logic** — Auto-detects win conditions, ends match early if format met
+- **UI Components** — Header, move buttons, scoreboard, history dropdown, reset controls
+- **Testing Mode** — Sidebar seed control for deterministic CPU behavior
+
+---
+
+## 🖼️ GIF Configuration
+
+Customize animations by editing the `GIF_URLS` dictionary inside `app.py`:
+
+```python
 GIF_URLS = {
-    "player_rock": "https://…/giphy.gif",
-    "player_paper": "https://…/giphy.gif",
-    "player_scissors": "https://…/giphy.gif",
-    "cpu_rock": "https://…/giphy.gif",
-    "cpu_paper": "https://…/giphy.gif",
-    "cpu_scissors": "https://…/giphy.gif",
+    "player_rock": "https://media.giphy.com/media/...",
+    "player_paper": "https://media.giphy.com/media/...",
+    "player_scissors": "https://media.giphy.com/media/...",
+    "cpu_rock": "https://media.giphy.com/media/...",
+    "cpu_paper": "https://media.giphy.com/media/...",
+    "cpu_scissors": "https://media.giphy.com/media/...",
 }
+```
 
-	•	Replace these with your own URLs if you want different animations.
-	•	The app fetches the GIF with a browser-like header and falls back to loading by URL if needed.
+> Replace URLs with your own. App uses `requests` with browser-like headers for reliability.
 
-⸻
+---
 
-🏆 Match Logic
-	•	Each click triggers CPU selection and “stages” the result.
-	•	The app waits briefly so the GIFs can play, then reveals the outcome.
-	•	Scores are updated after the animation.
-	•	Rounds increment automatically.
-	•	At the end of 3 or 5 rounds, the app announces:
-	•	{Player} WINS, or
-	•	CPU WINS, or
-	•	DRAW if scores are tied
+## 🏆 Match Logic Deep Dive
 
-⸻
+- Each move triggers CPU selection + result staging.
+- Brief pause lets GIFs play → then reveals outcome.
+- Round counter auto-increments.
+- Match ends when:
+  - Player or CPU reaches `ceil(total_rounds/2)`
+  - OR final round reached → winner declared
+- Ties? “DRAW” banner glows ominously.
 
-📊 Scoreboard and History
-	•	Scoreboard shows ROUND: X / N, Player score, Draws, and CPU score.
-	•	Move History dropdown lists each round with the moves, result, and timestamp:
+---
 
-Round 3 — Paper vs Rock → WIN (12:45:08)
+## 📊 Scoreboard & History
 
+**Live Scoreboard**  
+> `ROUND: 2 / 5` | `YOU: 1` | `CPU: 0` | `DRAWS: 1`
 
+**Move History Dropdown**  
+> `Round 1 — Rock vs Paper → LOSS (14:22:07)`  
+> `Round 2 — Scissors vs Scissors → DRAW (14:22:19)`  
+> `Round 3 — Paper vs Rock → WIN (14:22:33)`
 
-⸻
+---
 
-🧪 Developer Tools
+## 🧪 Developer Tools
 
-Open the sidebar and enable Testing Mode:
-	•	Set a random seed to make CPU choices reproducible during testing.
+Enable **Testing Mode** in sidebar:
+- Set `random_seed` for reproducible CPU choices
+- Perfect for debugging match logic or GIF timing
 
-⸻
+---
 
-🚀 Deploy
+## 🚨 Troubleshooting
 
-Streamlit Community Cloud
-	1.	Push this project to GitHub.
-	2.	Create a new app on Streamlit Community Cloud.
-	3.	Point it to day13/app.py.
-	4.	Add requirements.txt if you use one.
+**Issue**: GIFs load slowly or fail  
+**Fix**: Use smaller GIFs or host on faster CDN (e.g., Imgur, Giphy direct links)  
+**Fallback**: App uses `streamlit.image(url)` if `requests` fails
 
-Docker (optional sketch)
+**Issue**: No logo appears  
+**Fix**: Ensure `se.png` is in folder + readable. Or comment out logo block in code.
 
-FROM python:3.11-slim
-WORKDIR /app
-COPY . /app
-RUN pip install --no-cache-dir streamlit requests
-EXPOSE 8501
-CMD ["streamlit", "run", "app.py", "--server.address=0.0.0.0"]
+**Issue**: Buttons stay disabled after match  
+**Fix**: Click **START NEW MATCH** — it resets round counter and re-enables controls.
 
+---
 
-⸻
+## 📦 Dependencies
 
-❗ Troubleshooting
-	•	GIFs feel slow
-Large or remote GIFs can take time to load. Try smaller files or different hosts.
-	•	No logo
-Ensure se.png is present and readable. You can also comment out the logo block.
-	•	Buttons disabled
-After the last round in the chosen format, the match ends and buttons are disabled. Click START NEW MATCH.
+```txt
+streamlit>=1.33
+requests>=2.31
+```
 
-⸻
+> Works on older Streamlit — logic patched for backward compatibility.
 
-📝 License
+---
 
-MIT. See LICENSE if included, or add one to your repo.
+## 💡 Ideas to Extend
 
-⸻
+- **Early Win Detection** — End match as soon as player/cpu hits required wins
+- **Keyboard Shortcuts** — `R`, `P`, `S` to trigger moves
+- **Sound FX** — Inject `<audio>` tags for win/loss/draw sounds
+- **Asset Caching** — Locally cache GIFs for faster reloads
+- **Themes** — Add “Cyberpunk”, “Neon Arena”, “Retro Arcade” CSS skins
+- **Multiplayer LAN** — WebRTC or socket-based P2P mode (ambitious!)
 
-🙌 Credits
+---
 
-Built with Streamlit. GIFs credited to their respective creators. Replace the URLs if you prefer your own assets.
+## 📜 License
 
-⸻
+MIT — Use, modify, deploy freely. Perfect for portfolios, demos, or fun!
 
-📸 Screenshots (optional)
-
-Add screenshots here once you run the app:
-
-docs/
-  screenshot-1.png
-  screenshot-2.png
-
-Then reference them:
-
-![Home](docs/screenshot-1.png)
-![Round Result](docs/screenshot-2.png)
+---
 
 
-⸻
+## ⭐ Pro Tips
 
-💡 Ideas to Extend
-	•	First-to-2 or first-to-3 logic that ends the match early
-	•	Keyboard shortcuts for moves
-	•	Sounds on win or draw
-	•	Local caching for custom assets
+- Try **Best of 5** — the tension builds with every round!
+- Enable **Testing Mode** to practice against predictable CPU.
+- Watch the **Move History** — learn your patterns, outsmart the machine.
 
-⸻
+---
 
-Happy playing!
+<div align="center">
+
+🎓 Keep coding, keep learning!  
+Made with ❤️ by Shaid using Streamlit
+
+⭐ Star this repo if it helped you learn something new! ⭐
+
+</div>
+
