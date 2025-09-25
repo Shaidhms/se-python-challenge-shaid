@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/a449911d-0ea5-46f9-8ad1-988ea12599ae
 
 3. **Run the application**
    ```bash
-   streamlit run app.py
+   streamlit run Day1-Task.py
    ```
 
 4. **Open your browser**
