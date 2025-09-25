@@ -113,7 +113,6 @@ This challenge series is created by **Social Eagle** to help developers improve 
 4. Follow individual README files in each day's folder for detailed instructions
 
 ---
-
+**🎓 Keep coding, keep learning!**
+ Made with ❤️ by **Shaid** 
 ⭐ **Star this repo if you find it helpful!** ⭐
-
-Happy Coding! 🐍
