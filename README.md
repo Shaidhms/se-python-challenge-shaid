@@ -69,10 +69,10 @@ cd Day-1-python-challenge  # or any day you cloned
 ### 4. Run the Challenge
 ```bash
 # For Streamlit apps
-streamlit run Day1-Task.py
+streamlit run app.py
 
 # For regular Python scripts  
-python main.py
+python3 app.py
 ```
 
 ## 🎯 Challenge Overview
