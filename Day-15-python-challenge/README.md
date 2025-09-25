@@ -22,7 +22,14 @@ Day 15 Task :
 A **futuristic, visually stunning Snake game** built entirely with **Streamlit**, featuring neon aesthetics, smooth keyboard controls, special power-ups, and a sleek UI — all running in your browser!
 > Built by **Shaid** for the Social Eagle Python Challenge (Day 15).
 ---
+## 📸 Preview
 
+
+https://github.com/user-attachments/assets/9e6db255-3180-4e79-b99f-ebde4941e8cb
+
+
+
+---
 ## 🌟 Features
 
 ### 🎮 Core Gameplay
@@ -106,15 +113,6 @@ pip install streamlit pillow streamlit-js-eval
 | Restart       | "🔄 RESTART" button               |
 
 > 📝 **Note**: The game starts paused by default. Press **START** or any direction key to begin!
-
----
-
-## 📸 Preview
-
-
-https://github.com/user-attachments/assets/9e6db255-3180-4e79-b99f-ebde4941e8cb
-
-
 
 ---
 
