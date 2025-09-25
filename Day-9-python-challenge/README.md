@@ -171,16 +171,6 @@ Replace `videos/` and `audio/` files. Ensure:
 
 ---
 
-## 📸 Screenshots
-
-| Boot Sequence | Question Screen | Feedback Screen |
-|---------------|-----------------|-----------------|
-| ![Boot](https://via.placeholder.com/300x500/0a0f1a/00ffaa?text=System+Boot) | ![Question](https://via.placeholder.com/300x500/0a0f1a/00ffff?text=Video+%2B+Options) | ![Feedback](https://via.placeholder.com/300x500/0a0f1a/ff55ff?text=Correct%2FWrong) |
-
-*(Add real screenshots in `/screenshots` folder and link here)*
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
