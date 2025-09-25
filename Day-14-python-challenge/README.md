@@ -11,6 +11,15 @@ Day 14 Task :
 **SpectraLap** is a sleek, futuristic stopwatch web app built with **Streamlit**, featuring lap tracking, customizable watch mockups, immersive themes, and sound cues — all wrapped in a cyberpunk-inspired UI with neon aesthetics and glass-morphism design.
 > Built by **Shaid** for the Social Eagle Python Challenge (Day 14).
 ---
+## 📸 Demo
+
+
+
+https://github.com/user-attachments/assets/e5198a62-efcc-4ac4-94b6-df6899778eae
+
+
+
+---
 
 ## ✨ Features
 
@@ -122,15 +131,6 @@ The sound toggle UI is currently commented out. To re-enable:
 
 ---
 
-## 📸 Demo
-
-
-
-https://github.com/user-attachments/assets/e5198a62-efcc-4ac4-94b6-df6899778eae
-
-
-
----
 
 ## 🤝 Contributing
 Pull requests welcome! Feel free to:
