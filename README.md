@@ -113,6 +113,13 @@ This challenge series is created by **Social Eagle** to help developers improve 
 4. Follow individual README files in each day's folder for detailed instructions
 
 ---
+<div align="center">
+
 **🎓 Keep coding, keep learning!**
- Made with ❤️ by **Shaid** 
-⭐ **Star this repo if you find it helpful!** ⭐
+
+Made with ❤️ by **Shaid** using **Streamlit**
+
+⭐ **Star this repo if it helped you learn something new!** ⭐
+
+</div>
+
