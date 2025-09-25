@@ -117,7 +117,7 @@ This challenge series is created by **Social Eagle** to help developers improve 
 
 **🎓 Keep coding, keep learning!**
 
-Made with ❤️ by **Shaid** using **Streamlit**
+Made with ❤️ by **Shaid**
 
 ⭐ **Star this repo if it helped you learn something new!** ⭐
 
